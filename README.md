@@ -7,7 +7,7 @@
 - CyberSecurity Wizard 🧙‍♂️
 
 ### 🏴‍☠️ Hacker & Hacktivist Days
-Throughout my youth, I embraced the spirit of hacking and hacktivism; participating in various projects under different pseudonyms. I believed in the power of technology to bring about positive change and actively engaged in projects that aligned with my values. Millions have moved at my keystroke.
+Throughout my youth, I embraced the spirit of hacking and hacktivism; participating in various projects under different pseudonyms. I believed in the power of technology to bring about positive change and actively engaged in projects that aligned with my values.
 
 ### 🔐 Advocacy for Internet Standards, Net Neutrality, and Security
 I've devoted substantial time and effort to researching and contributing to internet standards, championing the cause of net neutrality, and advocating for robust internet security through encryption. I believe in a free, open, and secure internet; accessible to all.
